@@ -8,7 +8,7 @@
 // Color system
 //
 
-$gray-darker:           #515665;
+$gray-darker:           #4b2e83;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
 $gray-light:            #D3D8E6;
@@ -979,5 +979,3 @@ $pre-scrollable-max-height:         340px !default;
 // Printing
 $print-page-size:                   a3 !default;
 $print-body-min-width:              map-get($grid-breakpoints, "lg") !default;
-
-
