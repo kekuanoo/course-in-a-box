@@ -1,10 +1,10 @@
 ---
-title: Homepage
+title: Collections
 ---
 
 ## Homepage
 
-The homepage is the part of your course that most people will see first. By default, it shows a "jumbotron" (large banner with the course title, headline, and icon) and an open space to describe the materials inside the course. This information can be changed at any time without affecting other parts of your course. 
+The homepage is the part of your course that most people will see first. By default, it shows a "jumbotron" (large banner with the course title, headline, and icon) and an open space to describe the materials inside the course. This information can be changed at any time without affecting other parts of your course.
 
 <br>
 
@@ -37,7 +37,7 @@ The name of a course is set by editing the `course.yml` in the `_data/` folder:
 
 [https://github.com/your-github-username/course-in-a-box/blog/gh-pages/_data/course.yml](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml)
 
-By default, the information in this file will read: 
+By default, the information in this file will read:
 
 ```
 title: Course-in-a-Box
@@ -45,7 +45,7 @@ description: An open-source project for creating online courses, built by <a hre
 modules: [tutorial, resources, references]
 ```
 
-- **Title:** This text appears as the title of the page in your browser. 
+- **Title:** This text appears as the title of the page in your browser.
 - **Description:** This text appears as the headline in the large banner on the course landing page.
 - **Modules:** This list controls the modules that appear in the top menu of your course. (See the [Modules](../modules) section for more information).
 
@@ -66,4 +66,4 @@ published: true
 ---
 ```
 
-You can leave this text alone (it’s called “front matter”—more about that in [Submodules](../submodules)) at the top of the document. Using Markdown formatting, add your content underneath. This is a good place to explain a basic overview of the course material, materials required, or instructions for sign-up. 
+You can leave this text alone (it’s called “front matter”—more about that in [Submodules](../submodules)) at the top of the document. Using Markdown formatting, add your content underneath. This is a good place to explain a basic overview of the course material, materials required, or instructions for sign-up.

@@ -1,5 +1,5 @@
 ---
-title: Add Links to the Top Menu
+title: Exhibit architecture
 ---
 
 ## Add Links to the Top Menu
