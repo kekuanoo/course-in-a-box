@@ -13,6 +13,7 @@ Materials included on this site are intended for beginner users of Omeka. Some r
 
 We encourage you to read the syllabus created for DSSI as an example of how this work might be incorporated into the curriculum or the type of activities that might be useful for your classroom.
 
+<br>
 
 #### About this workshop
 
