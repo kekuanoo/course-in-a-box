@@ -10,8 +10,7 @@ For a great basic primer on digital exhibits, check out [this fancy URL that doe
 
 We can automatically generate all of the links in this guide if you type your GitHub username into the box below. You can also copy the links directly into your browser’s URL bar, though you’ll have to manually replace the text “your-github-username” with your GitHub username.
 
-<script src="http://libstory.ds.lib.uw.edu/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-<iframe src="http://libstory.ds.lib.uw.edu/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="100%" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="http://libstory.ds.lib.uw.edu/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="http://libstory.ds.lib.uw.edu/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="100%" height="546" frameborder="1" allowfullscreen="allowfullscreen"></iframe><script src="http://libstory.ds.lib.uw.edu/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <!--<div id="ghUsername-intro">
 If you tell us your username, we can prepare some links and make things a bit easier for you. If for some reason it doesn't work, replace 'your-github-username' with your GitHub username where you see links containing 'your-github-username'
