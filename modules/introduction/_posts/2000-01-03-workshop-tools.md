@@ -10,7 +10,7 @@ In this workshop, you will be working with two primary digital exhibit platforms
 
 <br>
 
-### SPLOTS
+#### SPLOTS
 
 A **SPLOT** has a couple definitions depending on who you ask. Some say that it stands for **S**mallest **P**ossible **O**pen **L**earning **T**ool. Others argue that it is an acronym for **S**implest **P**ortable **O**nline **L**iving **T**technology. No matter which thought you subscribe to, the key takeaways are that SPLOTS are meant to be used as a nimble, quick and accessible platform and that there is great value to be had from learners and educators sharing their work openly on the web. Most importantly, anyone can contribute to SPLOTS without creating an account OR requiring any personally identifiable information.
 
@@ -24,7 +24,7 @@ When you need a quick and easy solution to hosting an openly available collectio
 
 <br>
 
-### Omeka
+#### Omeka
 
 **Omeka**, in contrast to a SPLOT, is a platform built to ingest and display hundreds of digital objects in a collection. An Omeka site is developed using three digital assets: items, collections and exhibits. You can use these building blocks to explain a narrative about a collection or provide a persuasive argument based on how you craft your content.
 
@@ -32,6 +32,6 @@ Omeka is a simple web publishing system that provides a great deal of customizat
 
 A number of plug-ins are also available for Omeka which extends its utility. Plug-ins allow you to build timelines, create mobile tours, embed narrative web elements and more.
 
-## Using tools in this Workshop
+#### Using tools in this Workshop
 
 Workshop tools are provided through the **UW Libraries Digital Scholarship Platforms Service**. To access these tools in this workshop, we will facilitate the sign-up process for you. If you know of others who might be interested in accessing these tools, they will need to [request an account](https://ds.lib.uw.edu/) through the service.
