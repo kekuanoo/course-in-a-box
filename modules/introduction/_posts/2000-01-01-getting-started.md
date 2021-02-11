@@ -2,9 +2,9 @@
 title: Getting Started with Digital Exhibits
 ---
 
-<img src="/img/banners/getting_started.png" alt="a scratch drawing of the words getting started" class="img-fluid">
+<img src="/course-in-a-box/img/banners/getting_started.png" alt="a scratch drawing of the words getting started" class="img-fluid">
 
-## Getting Started with GitHub
+## Getting Started with Digital Exhibits
 
 Digital exhibits are websites that are edited and hosted ... [GitHub account](https://github.com/join).
 
