@@ -8,9 +8,13 @@ title: Support at UW Seattle
 
 The University of Washington Libraries on the Seattle campus supports digital scholarship in many ways. We can help you craft a project idea, find funding sources, locate a creation space on campus, use tools to support your project, create a data management plan, make your work more visible, and more.
 
+<br>
+
 #### Not at UW Seattle?
 
 The UW Libraries supports digital scholarship on our [Bothell](https://guides.lib.uw.edu/bothell/digitalscholarship) and [Tacoma](https://guides.lib.uw.edu/tacdigitalscholarship) campuses as well.
+
+<br>
 
 #### Events calendar
 

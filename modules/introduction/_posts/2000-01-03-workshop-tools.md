@@ -8,7 +8,9 @@ title: Workshop tools
 
 In this workshop, you will be working with two primary digital exhibit platforms: SPLOTS and Omeka.
 
-### SPLOTS - a fun name for a fun tool
+<br>
+
+### SPLOTS
 
 A **SPLOT** has a couple definitions depending on who you ask. Some say that it stands for **S**mallest **P**ossible **O**pen **L**earning **T**ool. Others argue that it is an acronym for **S**implest **P**ortable **O**nline **L**iving **T**technology. No matter which thought you subscribe to, the key takeaways are that SPLOTS are meant to be used as a nimble, quick and accessible platform and that there is great value to be had from learners and educators sharing their work openly on the web. Most importantly, anyone can contribute to SPLOTS without creating an account OR requiring any personally identifiable information.
 
@@ -20,7 +22,9 @@ When you need a quick and easy solution to hosting an openly available collectio
 - [Into the Pulterverse](https://engl210219.pulterpoems.buffscreate.net/). Example of TruWriter, with more space for text. Still can embed media.
 - [Animal Body Plans](https://bio2290.trubox.ca/). Example of TruCollector, with class gathering data, using the “metadata” as part of learning.
 
-### Omeka - the online exhibit powerhouse
+<br>
+
+### Omeka
 
 **Omeka**, in contrast to a SPLOT, is a platform built to ingest and display hundreds of digital objects in a collection. An Omeka site is developed using three digital assets: items, collections and exhibits. You can use these building blocks to explain a narrative about a collection or provide a persuasive argument based on how you craft your content.
 
