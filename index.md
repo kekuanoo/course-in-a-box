@@ -10,7 +10,7 @@ This workshop is prioritizes open source platforms and tools available through t
 By the end of this resource, you should know about the basics of digital exhibits and how to begin using SPLOTS and Omeka to develop a project site for your items and collections.
 
 <p class="text-right"><a class="btn btn-primary btn-sm"
-href="/course-in-a-box/modules/introduction/">
+href="/course-in-a-box/modules/introduction/getting-started">
 Learn more... </a></p>
 
 
