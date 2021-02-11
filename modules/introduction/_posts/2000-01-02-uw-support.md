@@ -2,31 +2,17 @@
 title: Support at UW Seattle
 ---
 
+
+<img src="/course-in-a-box/img/banners/uw-support.png" alt="a scratch drawing of the words support @ UW" class="img-fluid">
+
 ## Support at UW Seattle
 
-Once you’re logged in to GitHub, the first step of creating a course is to copy ( “fork”) the Course-in-a-Box project folder ( “repository”) from P2PU’s account to yours. This will make an identical copy of this website and its content in your account library. (Making your course is essentially a matter of editing out our content and customizing it with your own.)
+The University of Washington Libraries on the Seattle campus supports digital scholarship in many ways. We can help you craft a project idea, find funding sources, locate a creation space on campus, use tools to support your project, create a data management plan, make your work more visible, and more.
 
-To start, head to [P2PU’s course-in-a-box project](https://github.com/p2pu/course-in-a-box) and click “Fork” in the top right, or simply click the button below:
+#### Not at UW Seattle?
 
-<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository on GitHub</a>
+The UW Libraries supports digital scholarship on our [Bothell](https://guides.lib.uw.edu/bothell/digitalscholarship) and [Tacoma](https://guides.lib.uw.edu/tacdigitalscholarship) campuses as well.
 
-<br>
+#### Events calendar
 
-#### Delete CNAME
-Once you’ve forked the project, you’ll need to remove the **CNAME** file that appears in the main list of folders and files. This file is specific to P2PU’s web hosting for this tutorial website, and it’ll prevent your site from working if you keep it. (If you’ve already got a custom domain that you want to use for your course, you can edit this instead of deleting it—see [Set a Custom Domain](../../customize/custom-domain/) for more information.)
-
-Click the file to open it:
-
-[https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME)
-
-Once open, click the trash can icon in the upper right side of the code section to delete the file. On the confirmation page, click the green “Commit changes” button to update (“commit”) your change and return you to the file list.
-
-<br>
-
-#### Your course is now live!
-
-You can view it by going to
-
-[https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/)
-
-Note: it can take between 2–20 minutes for your course to show up for the first time.
+Get involved by attending a digital scholarship event! Check out the [events calendar](https://www.lib.washington.edu/digitalscholarship/calendar) for more information about the latest digital scholarship offerings.
