@@ -2,7 +2,6 @@
 title: Support at UW Seattle
 ---
 
-
 <img src="/course-in-a-box/img/banners/uw-support.png" alt="a scratch drawing of the words support @ UW" class="img-fluid">
 
 ## Support at UW Seattle

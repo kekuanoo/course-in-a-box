@@ -2,9 +2,9 @@
 title: Workshop tools
 ---
 
-## Workshop tools
-
 <img src="/course-in-a-box/img/banners/workshop-tools.png" alt="a scratch drawing of the words workshop tools" class="img-fluid">
+
+## Workshop tools
 
 In this workshop, you will be working with two primary digital exhibit platforms: SPLOTS and Omeka.
 
@@ -30,4 +30,4 @@ A number of plug-ins are also available for Omeka which extends its utility. Plu
 
 ## Using tools in this Workshop
 
-Workshop tools are provided through the **UW Libraries Digital Scholarship Platforms Service**. To access these tools in this workshop, we will facilitate the sign-up process for you. If you know of others who might be interested in accessing these tools, they will need to [request an account](https://ds.lib.uw.edu/) through the service. 
+Workshop tools are provided through the **UW Libraries Digital Scholarship Platforms Service**. To access these tools in this workshop, we will facilitate the sign-up process for you. If you know of others who might be interested in accessing these tools, they will need to [request an account](https://ds.lib.uw.edu/) through the service.
