@@ -2,6 +2,8 @@
 title: Collections
 ---
 
+<img src="/course-in-a-box/img/collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
+
 ## Collections
 
 Think of collections like a bucket of content. Each bucket can contain any number of individual items, as much as you care to cram in there. And you can label or assign each bucket for a specific use. Perhaps you have one bucket for "soccer" and another for "volleyball." It makes sense, then, to place corresponding items into appropriate buckets based on these commonalities. But once you place an item into a bucket, it belongs only to that bucket. That's how collections work in digital exhibit platforms.
