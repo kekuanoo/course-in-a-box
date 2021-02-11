@@ -10,7 +10,7 @@ For a great basic primer on digital exhibits, check out [this fancy URL that doe
 
 We can automatically generate all of the links in this guide if you type your GitHub username into the box below. You can also copy the links directly into your browser’s URL bar, though you’ll have to manually replace the text “your-github-username” with your GitHub username.
 
-<iframe src="http://libstory.ds.lib.uw.edu/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=1"></iframe><script src="http://libstory.ds.lib.uw.edu/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe width="560" height="315" src="http://libstory.ds.lib.uw.edu/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=1"></iframe><script src="http://libstory.ds.lib.uw.edu/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <!--<div id="ghUsername-intro">
