@@ -1,5 +1,5 @@
 ---
-title: Layouts
+title: Writing for the web
 ---
 
 ## Set a Custom Domain
