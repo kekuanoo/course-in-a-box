@@ -2,7 +2,7 @@
 title: Collections
 ---
 
-<img src="/course-in-a-box/img/omeka_collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
+<img src="img/omeka_collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
 
 ## Collections
 
