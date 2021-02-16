@@ -6,10 +6,6 @@ title: Narratives
 
 #### Crafting a narrative
 
-Crafting a narrative
-
-<img src="/course-in-a-box/img/omeka_narrative.png" alt="a visual representation of a narrative connecting items across collections in Omeka" class="img-fluid">
-
 Building a compelling digital exhibit often requires a framing of storytelling. As a curator of this exhibit and collections, consider the following questions:
 
 - Who is the exhibit’s target audience and how do we know this?
