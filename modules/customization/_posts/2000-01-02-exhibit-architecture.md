@@ -2,40 +2,16 @@
 title: Exhibit architecture
 ---
 
-## Add Links to the Top Menu
+## Exhibit architecture
 
-Course-in-a-Box automatically fills the top navigation bar with a link to the course’s homepage and every module that is added to the `_data/course.yml` file. If you want to further customize the top nav with links to external websites (like a forum or your org’s website), you can do that by editing some HTML.
+Before you begin organizing your exhibit, you should first have **at least** a rough outline of your exhibit including the assets you will need for your display. These assets should be uploaded and added as items in Omeka.
 
-Head to `_includes/navigation.html`:
+As you recall, items are a primary building block of an Omeka site. With this in mind, consider what you want to do to fully describe and showcase your items. Sets of items can also be selected as a way to guide visitors who are browsing your site, so consider how you might group items into sets together and what metadata they may have in relation.
 
-[https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_includes/navigation.html](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_includes/navigation.html)
+Once you have added items and decided what you want your items to do in your exhibit, consider how you take use of their functionality and data properties you have described. Will you display items by "author" or will your audience see a different categorization or item set based on some other metadata field?
 
-Near the bottom of the code, you’ll see text that looks like this:
+Now you need pages. So, what pages do you include, what content do you want to feature, and how will you arrange and organize the pages? Sketching or storyboarding your site's architecture could be a helpful guide as you build your pages.
 
-```
-<!--
-      <li class="nav-item py-0">
-        <a class="nav-link" href="https://www.p2pu.org/en/" target="_blank">Example Link</a>
-      </li>
--->
-```
+Finally, consider how you might interact with your audience. Will they be active contributors to a collection? Can they share your methodology, process and other information via social media? What do you want them to take away from your digital exhibit?
 
-This code is “commented out”—in HTML, you can add `<!--` and `-->` around a block of code to instruct the computer to ignore it. (This function is typically used for leaving messages about what specific code is used for—you can see that at the top of this file where it says `<!-- Navigation -->`) In this case, we’ve pre-built a space for you to add a link to the top menu and ignored it by default. You’ll only need to delete the `<!--` and `-->` and update the link information to your own information.
-
-By default, the nav bar should look like this:
-
-![Screenshot of the top navigation bar without an extra link](/img/example-top-nav-no-link.png)
-
-Once you delete the `<!--` and `-->` from the code above and commit your changes, it should look like:
-
-![Screenshot of the top navigation bar with an extra link](/img/example-top-nav-link.png)
-
-To customize the link and title, you’ll replace these parts of the code:
-```
-<a class="nav-link" href="https://www.p2pu.org/en/" target="_blank">Example Link</a>
-```
-
-* `https://www.p2pu.org/en/` – Delete this, then paste your web link here.
-* `Example Link` - Change this text to be the name of your link.
-
-Commit your changes and your new link should appear at the end shortly!
+All good things to consider when building the architecture for your exhibits.

@@ -2,21 +2,20 @@
 title: Writing for the web
 ---
 
-## Set a Custom Domain
+## Writing for the web
 
-Your course will live freely and indefinitely at the following link which will be automatically generated when you fork Course-in-a-Box:
+As you consider text for your simple pages, remember writing in a digital format is much different than writing a research work or term paper. You’ll want to keep your text short, concise, and easy to scan. Put the most important content or message on your simple page first rather than burying it at the end of the text. If you have multiple paragraphs, use headings to break them up. This is also good practice for the accessibility of your site.
 
-[https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/)
+Consider [these guidelines](https://education.uw.edu/my-coe/web-writing-guidelines) from the UW College of Education.
 
-If you’d prefer to share your course on a different website, you can set it up under a custom domain name.
-If you or your organization don’t already own the domain name where you want to host your course, you’ll need to buy one. Domains typically start at $10–15 per year. There are hundreds of services for this, many of which offer discounts or specialty domains. We recommend starting with [namecheap](https://www.namecheap.com/) or [gandi](https://www.gandi.net/en-US).
+1. **Write clear, simple and effective content.** Content should be written in an easy-to-read, conversation style and designed with your audience and goals in mind.
+2. **Put the most important content in the first paragraph.**
+3. **Chunk your content.**
+4. **Be concise.**
+5. **Use active voice instead of passive voice.**
+6. **Choose lists over long paragraphs.**
 
-#### Linking the Custom Domain
+##Accessibility
+You also need to ensure that your digital exhibits are designed with accessibility in mind. This means you make good use of headings, images have alternative text, you use meaningful hyperlinks, and your site can be navigated by keyboard-only.
 
-Once you’ve registered the domain, there are two steps needed to route it to your course: adding a CNAME and configuring your DNS record.
-
-Remember that CNAME file you deleted when you first forked your course? Er, well, you’ll have to make that again in order to use a custom domain. In the main repository of your course, create a new file titled `CNAME` and paste your custom domain into the file.
-
-[https://your-github-username.github.io/course-in-a-box/CNAME](https://your-github-username.github.io/course-in-a-box/CNAME.)
-
-Finally, you need to configure your new domain to point to your course on GitHub. For this, we recommend following [GitHub’s official documentation](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
+For a longer, more detailed list of accessibility considerations, visit the UW's Accessible Technology page on [developing accessible websites](https://www.washington.edu/accessibility/web/).
