@@ -8,13 +8,14 @@ As you consider text for your simple pages, remember writing in a digital format
 
 Consider [these guidelines](https://education.uw.edu/my-coe/web-writing-guidelines) from the UW College of Education.
 
-1. **Write clear, simple and effective content.** 
+1. **Write clear, simple and effective content.**
 2. **Put the most important content in the first paragraph.**
 3. **Chunk your content.**
 4. **Be concise.**
 5. **Use active voice instead of passive voice.**
 6. **Choose lists over long paragraphs.**
 
+<br>
 ## Accessibility
 You also need to ensure that your digital exhibits are designed with accessibility in mind. This means you make good use of headings, images have alternative text, you use meaningful hyperlinks, and your site can be navigated by keyboard-only.
 
