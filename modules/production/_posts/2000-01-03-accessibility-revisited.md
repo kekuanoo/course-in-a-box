@@ -1,5 +1,5 @@
 ---
-title: Exhibits
+title: Accessibility Revisited
 ---
 
 <img src="/course-in-a-box/img/omeka_exhibits.png" alt="a visual representation of items, collections and exhibits in Omeka" class="img-fluid">
