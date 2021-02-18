@@ -2,7 +2,7 @@
 title: Leveling up
 ---
 
-<img src="/course-in-a-box/img/omeka_collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
+<img src="/course-in-a-box/img/leveling_up.png" alt="a scratch drawing of the words leveling up" class="img-fluid">
 
 ## Collections
 

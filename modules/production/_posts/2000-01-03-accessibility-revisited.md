@@ -2,7 +2,7 @@
 title: Accessibility Revisited
 ---
 
-<img src="/course-in-a-box/img/omeka_exhibits.png" alt="a visual representation of items, collections and exhibits in Omeka" class="img-fluid">
+<img src="/course-in-a-box/img/accessibility_revisited.png" alt="a scratch drawing of the words accessibility revisited" class="img-fluid">
 
 ## Exhibits
 

@@ -2,7 +2,7 @@
 title: Workshop Learning Environment
 ---
 
-<img src="/course-in-a-box/img/omeka_collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
+<img src="/course-in-a-box/img/learning_environment.png" alt="a scratch drawing of the words learning environment" class="img-fluid">
 
 ## Collections
 

@@ -2,7 +2,7 @@
 title: Draft workshop
 ---
 
-<img src="/course-in-a-box/img/omeka_collections.png" alt="a visual representation of items and collections in Omeka" class="img-fluid">
+<img src="/course-in-a-box/img/draft_workshop.png" alt="a scratch drawing of the words draft workshop" class="img-fluid">
 
 ## Collections
 

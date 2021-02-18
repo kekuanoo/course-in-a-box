@@ -2,7 +2,7 @@
 title: Teaching with digital exhibits
 ---
 
-<img src="/course-in-a-box/img/omeka_exhibits.png" alt="a visual representation of items, collections and exhibits in Omeka" class="img-fluid">
+<img src="/course-in-a-box/img/teaching.png" alt="a scratch drawing of the word teaching" class="img-fluid">
 
 ## Exhibits
 
