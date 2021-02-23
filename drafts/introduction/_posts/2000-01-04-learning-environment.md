@@ -1,13 +1,21 @@
 ---
-title: Workshop Learning Environment
+title: Learning Environment
 ---
 
 <img src="/course-in-a-box/img/learning_environment.png" alt="a scratch drawing of the words learning environment" class="img-fluid">
 
-## Collections
+## Learning environment
 
-Think of collections like a bucket of content. Each bucket can contain any number of individual items, as much as you care to cram in there. And you can label or assign each bucket for a specific use. Perhaps you have one bucket for "soccer" and another for "volleyball." It makes sense, then, to place corresponding items into appropriate buckets based on these commonalities. But once you place an item into a bucket, it belongs only to that bucket. That's how collections work in digital exhibit platforms.
+We have already mentioned a couple of different workshop tools, namely **SPLOTs** and **Omeka**. These are the digital exhibit platforms that we often use in UW Libraries workshops to read, design, build and showcase digital exhibits. Those tools, however, are ultimately hosted on another service entirely. This hosting service is called **Reclaim Hosting**.
 
-Each item on your site can only belong to one collection, but items can be switched from one collection to another at any time. Each collection can be based on a common topic, source or organizing principle. And collections can certainly be public-facing, but they could also be used internally for organization purposes only. No matter how you plan to use a collection, know that you can customize your organization for a variety of contexts that make the most sense for your archive.
+## Reclaim Hosting
 
-To add items to a collection in Omeka, you first need to create a collection. And like items, collections have some basic metadata options to provide when you first create a new one. Once a collection is created, you can add an item by going to the item in your archive and selecting the collection from the drop-down menu.
+SPLOTs and Omeka are tools provided through the **UW Libraries Digital Scholarship Platforms Service** which is built on the Reclaim Hosting infrastructure. To access these tools, you need to [request an account](https://ds.lib.uw.edu/) through the service.
+
+After you've requested an account, you will receive an email when your account is ready. Navigate to the [Digital Scholarship Platforms website](https://ds.lib.uw.edu/dashboard/) to log in to your dashboard. When you first log in, you have a very important decision to make: **your subdomain**.
+
+## Subdomains
+
+Your subdomain is the URL for your project. For example: entering in  "englishpublishing" will assign you ***englishpublishing***.ds.lib.uw.edu. This cannot be changed once you have chosen your subdomain so choose it carefully.
+
+**WARNING** Do not use “test” in the subdomain. Reclaim Hosting does not accept “test” as a subdomain and your account will need to be reset.

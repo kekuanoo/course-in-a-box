@@ -31,9 +31,3 @@ When you need a quick and easy solution to hosting an openly available collectio
 Omeka is a simple web publishing system that provides a great deal of customization and complexity depending on your needs and it does this all in one single seamless site. It is a free, open source platform that enables and promotes collaboration. It is easy for faculty and students to collaborate together with Omeka with the ability to add users with varying levels of access and designated roles.
 
 A number of plug-ins are also available for Omeka which extends its utility. Plug-ins allow you to build timelines, create mobile tours, embed narrative web elements and more.
-
-<br>
-
-#### Using tools in this Workshop
-
-Workshop tools are provided through the **UW Libraries Digital Scholarship Platforms Service**. To access these tools in this workshop, we will facilitate the sign-up process for you. If you know of others who might be interested in accessing these tools, they will need to [request an account](https://ds.lib.uw.edu/) through the service.
