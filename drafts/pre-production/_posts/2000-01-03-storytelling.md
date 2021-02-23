@@ -1,5 +1,5 @@
 ---
-title: Brainboarding
+title: Storytelling through digital exhibits
 ---
 
 <img src="/course-in-a-box/img/brainboarding.png" alt="a scratch drawing of the words brainboarding" class="img-fluid">
