@@ -1,5 +1,5 @@
 ---
-title: Teaching with digital exhibits
+title: Resources for Omeka users
 ---
 
 <img src="/course-in-a-box/img/teaching.png" alt="a scratch drawing of the word teaching" class="img-fluid">

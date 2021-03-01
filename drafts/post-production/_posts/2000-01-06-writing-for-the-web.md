@@ -16,6 +16,7 @@ Consider [these guidelines](https://education.uw.edu/my-coe/web-writing-guidelin
 6. **Choose lists over long paragraphs.**
 
 <br>
+
 ## Accessibility
 You also need to ensure that your digital exhibits are designed with accessibility in mind. This means you make good use of headings, images have alternative text, you use meaningful hyperlinks, and your site can be navigated by keyboard-only.
 
