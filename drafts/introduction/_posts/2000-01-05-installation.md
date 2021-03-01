@@ -6,6 +6,10 @@ title: Installation
 
 If you are looking to build your own full digital exhibits, whether through Omeka or SPLOTs, you need to have your own full installation of the platform. The installation process is facilitated through the use of a tool called **cPanel**.
 
+```
+However, if you are currently participating in a digital exhibits, please skip ahead to the next page.
+```
+
 ## cPanel
 
 Once your subdomain has been selected, you will be taken to the cPanel - a hosting control panel that helps you manage your new subdomain. It lists a number of applications and tools that are now available to you via Reclaim Hosting.
