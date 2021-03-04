@@ -2,22 +2,14 @@
 title: Storytelling through digital exhibits
 ---
 
-<img src="/course-in-a-box/img/brainboarding.png" alt="a scratch drawing of the words brainboarding" class="img-fluid">
+## Storytelling
 
-## Exhibits
+Your digital exhibit is, essentially, a virtual experience for a visitor to your own curated museum. And a key component to your digital exhibit is storytelling. What story does your exhibit tell? How does it engage an audience? Who is that audience?
 
-Exhibits are an opportunity to highlight a few items from a single collection or to put items from several collections in conversation with one another. Exhibits provide a way to bring items from an Omeka site together in conversation with one another through descriptive text. Simple pages can be added to describe your project as a whole in more detail. They become part of the overarching site navigation.
+Exhibits and collections are rich story resources that can convey a lot of information. The story that you weave throughout the exhibit should be coherent and provide a meaningful experience to your audience. But how do you, as the curator, successfully use your materials and authority to establish an emotional connection with a virtual visitor?
 
-Exhibits, therefore, are composed of pages just like a website. Most exhibits begin with an initial page that introduces your exhibit. Additional pages are composed of items from your archive that you wish to highlight or relate to each other. We will talk a bit more about pages later in this course, but just know for now that there are easy ways to build pages within your Omeka site.
+You will need to identify the main concepts you are trying to convey (the story), items that will be featured to establish those concepts (the characters), the main narratives that will be featured throughout the collections you create (the plot points) and the layout and architecture of your exhibit and overall site (the setting).
 
-Like other aspects of your Omeka site, when creating an exhibit you will need to associate it with some metadata. In this case, your exhibit will need:
-- A title
-- A slug: the location of your exhibit that comes after your website (i.e. youromekasite.ds.lib.uw.edu/show/**your_exhibit**)
-- Credits
-- A description
-- Tags (remember that we mentioned items AND exhibits can both be tagged)
-- A theme
-- An optional summary page
-- A cover image
+You should also consider how layering stories or capturing stories within a story can be facilitated. Perhaps a specific image helps you to reinforce the idea that an artist was particularly prolific during a certain time period. But allowing visitors to take a deeper look at the image by exploring its metadata and origin might enable you to provide greater context and understanding of how and why the image was created.
 
-If you have pages that already exist, you can also add them when first adding your exhibit.
+In this way, brainstorming and storyboarding the look and feel of your digital exhibit is a great way to get started.
