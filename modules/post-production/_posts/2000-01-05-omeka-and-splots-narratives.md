@@ -1,8 +1,8 @@
 ---
-title: Actions!
+title: Omeka and SPLOT narratives
 ---
 
-<img src="/course-in-a-box/img/pro_actions.png" alt="a scratch drawing of the words pro actions" class="img-fluid">
+<img src="/course-in-a-box/img/omeka_narrative.png" alt="a visual representation of a narrative connecting items across collections in Omeka" class="img-fluid">
 
 #### Crafting a narrative
 
