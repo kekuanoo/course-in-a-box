@@ -16,6 +16,6 @@ After you've requested an account, you will receive an email when your account i
 
 ## Subdomains
 
-Your subdomain is the URL for your project. For example: entering in  "englishpublishing" will assign you ***englishpublishing***.ds.lib.uw.edu. This cannot be changed once you have chosen your subdomain so choose it carefully.
+Your subdomain is the URL for your project. For example: entering in  "englishpublishing" will assign you ***englishpublishing***.ds.lib.uw.edu. This cannot be changed once you have chosen your subdomain, so choose it carefully.
 
 **WARNING** Do not use “test” in the subdomain. Reclaim Hosting does not accept “test” as a subdomain and your account will need to be reset.

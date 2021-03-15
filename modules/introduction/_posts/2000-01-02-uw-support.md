@@ -8,6 +8,10 @@ title: Support at UW Seattle
 
 The University of Washington Libraries on the Seattle campus supports digital scholarship in many ways. We can help you craft a project idea, find funding sources, locate a creation space on campus, use tools to support your project, create a data management plan, make your work more visible, and more.
 
+Get in touch with your UW Seattle digital scholarship support system:
+- [Verletta Kern](https://guides.lib.uw.edu/research/vkern), Head of the [Open Scholarship Commons](https://www.lib.washington.edu/openscholarship) and Digital Scholarship Librarian
+- [Dylan Burns](https://guides.lib.uw.edu/research/burns), Arts and Humanities Librarian
+
 <br>
 
 #### Not at UW Seattle?
