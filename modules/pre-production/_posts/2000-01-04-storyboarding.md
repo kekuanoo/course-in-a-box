@@ -4,7 +4,7 @@ title: Brainstorming and Storyboarding
 
 ## Brainstorming [and storyboarding]
 
-Ready to start drafting your digital exhibit plan? Grab a pen and paper, open your favorite word processor or use our brainstorming template [link] and consider answering the following questions:
+Ready to start drafting your digital exhibit plan? Grab a pen and paper, open your favorite word processor or use our [brainstorming template](https://docs.google.com/document/d/1ILQ9QTzZgj5TaOppPtTrNc-9kgNzMz3ItpYwwByvlc8/copy) and consider answering the following questions:
 
 - What materials will you feature?
 - What story are you trying to tell with your materials?
