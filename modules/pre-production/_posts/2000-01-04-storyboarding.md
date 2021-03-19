@@ -19,5 +19,5 @@ Ready to start drafting your digital exhibit plan? Grab a pen and paper, open yo
 Storyboarding can take many forms. See the list below for examples:
 
 - [Sitemap wireframe](https://docs.google.com/presentation/d/17Ua03WQxpFXyr2jXBIxaS5X8Jl5MiLuyOI0QBVaoTDI/edit?usp=sharing). Built using the [Lucidchart](https://lucid.app/documents) Add-on.
-- [Text-based choice pathing](modules/twine.html). Built using [Twine](https://twinery.org/).
+- [Text-based choice pathing](http://libstory.ds.lib.uw.edu/twine.html). Built using [Twine](https://twinery.org/).
 - [Flowchart](https://docs.google.com/presentation/d/1Q_2QzbSiF4adwXPNDbPYnxEdxnrGaiSxDcksVFbCrWI/edit?usp=sharing). Built using Google Slides.
