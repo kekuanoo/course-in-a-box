@@ -1,10 +1,8 @@
 ---
-title: Accessibility Revisited
+title: Metadata & Accessibility
 ---
 
-<img src="/course-in-a-box/img/accessibility_revisited.png" alt="a scratch drawing of the words accessibility revisited" class="img-fluid">
-
-## Exhibits
+## Metadata & Accessibility
 
 Exhibits are an opportunity to highlight a few items from a single collection or to put items from several collections in conversation with one another. Exhibits provide a way to bring items from an Omeka site together in conversation with one another through descriptive text. Simple pages can be added to describe your project as a whole in more detail. They become part of the overarching site navigation.
 
