@@ -2,22 +2,22 @@
 title: Brainstorming and Storyboarding
 ---
 
-<img src="/course-in-a-box/img/brainboarding.png" alt="a scratch drawing of the words brainboarding" class="img-fluid">
+## Brainstorming [and storyboarding]
 
-## Exhibits
+Ready to start drafting your digital exhibit plan? Grab a pen and paper, open your favorite word processor or use our brainstorming template [link] and consider answering the following questions:
 
-Exhibits are an opportunity to highlight a few items from a single collection or to put items from several collections in conversation with one another. Exhibits provide a way to bring items from an Omeka site together in conversation with one another through descriptive text. Simple pages can be added to describe your project as a whole in more detail. They become part of the overarching site navigation.
+- What materials will you feature?
+- What story are you trying to tell with your materials?
+  - What is the overall purpose of your digital exhibit?
+  - What is your point of view?
+  - How does your material connect to the purpose of your exhibit?
+- Who is your audience?
+- What is the key question that will keep your visitor’s attention and your audience engaged? Keep in mind that this question should be explored through navigation and may likely be answered by the end of the “visit” to your exhibit.
+- How are you pacing navigation of your exhibit? Do visitors move from text to text or are materials organized in a way that provides a variety of representation within the exhibit?
+- By the end of your exhibit, what should the audience be able to articulate, what should they feel, how do you want them to react?
 
-Exhibits, therefore, are composed of pages just like a website. Most exhibits begin with an initial page that introduces your exhibit. Additional pages are composed of items from your archive that you wish to highlight or relate to each other. We will talk a bit more about pages later in this course, but just know for now that there are easy ways to build pages within your Omeka site.
+Storyboarding can take many forms. See the list below for examples:
 
-Like other aspects of your Omeka site, when creating an exhibit you will need to associate it with some metadata. In this case, your exhibit will need:
-- A title
-- A slug: the location of your exhibit that comes after your website (i.e. youromekasite.ds.lib.uw.edu/show/**your_exhibit**)
-- Credits
-- A description
-- Tags (remember that we mentioned items AND exhibits can both be tagged)
-- A theme
-- An optional summary page
-- A cover image
-
-If you have pages that already exist, you can also add them when first adding your exhibit.
+- [Sitemap wireframe](https://docs.google.com/presentation/d/17Ua03WQxpFXyr2jXBIxaS5X8Jl5MiLuyOI0QBVaoTDI/edit?usp=sharing). Built using the [Lucidchart](https://lucid.app/documents) Add-on.
+- [Text-based choice pathing](modules/twine.html). Built using [Twine](https://twinery.org/).
+- [Flowchart](https://docs.google.com/presentation/d/1Q_2QzbSiF4adwXPNDbPYnxEdxnrGaiSxDcksVFbCrWI/edit?usp=sharing). Built using Google Slides.
