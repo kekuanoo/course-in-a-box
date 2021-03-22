@@ -2,7 +2,7 @@
 title: Production
 ---
 
-## Simple Pages
+## Omeka Quick Links
 
 As you begin building your projects, you will want to consider incorporating Simple Pages. Simple pages - or just *pages* - are the connective tissue of your Omeka site. They become part of your site's navigation and are used to describe your project in much more detail.
 
@@ -10,7 +10,7 @@ Whereas exhibits bring items together across collections, a page provides viewer
 
 <br>
 
-### Examples of Pages
+### SPLOTs Quick Links
 
 - An "About" page for your site
 - An essay about the materials on your site

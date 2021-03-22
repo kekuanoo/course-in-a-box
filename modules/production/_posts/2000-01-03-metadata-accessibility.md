@@ -11,7 +11,7 @@ By now, you have come across the terms metadata and accessibility and might be w
 
 <br>
 
-Metadata in Omeka are tied to Items, Collections and Exhibits. Even your Omeka site itself has associated metadata. As a refresher, typical metadata fields for items and collections include:
+Metadata in Omeka are tied to Items, Collections and Exhibits. Even your Omeka site itself has associated metadata. As a refresher, typical metadata fields for **items and collections** include:
 - Title, Subject, Description, Source, Creator, Publisher, Contributor, Rights, Format and more.
 - Items can also be categorized by Item Type which will give you a preformed list of metadata to complete.
 
