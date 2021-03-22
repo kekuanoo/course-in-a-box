@@ -37,6 +37,7 @@ You must be logged into your UW Google account to access the links below.
 ### SPLOTs Quick Links
 
 [**TRU Collector**](https://splot.ca/splots/tru-collector/)
+
 After [installing](https://kekuanoo.github.io/course-in-a-box/modules/introduction/_posts/2000-01-05-installation.md) TRU Collector, you will have access to a number of settings:
 - Access to Collector
 - Publish Settings
@@ -48,6 +49,7 @@ For more information about the TRU Collector, including how to change the look a
 
 
 [**TRU Writer**](https://splot.ca/splots/tru-writer/)
+
 After [installing](https://kekuanoo.github.io/course-in-a-box/modules/introduction/_posts/2000-01-05-installation.md) TRU Writer, you will have access to a number of settings:
 - Access to Writing Tool
 - Publish Settings
