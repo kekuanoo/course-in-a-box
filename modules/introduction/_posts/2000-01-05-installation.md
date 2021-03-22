@@ -7,7 +7,7 @@ title: Installation
 If you are looking to build your own full digital exhibits, whether through Omeka or SPLOTs, you need to have your own full installation of the platform. The installation process is facilitated through the use of a tool called **cPanel**.
 
 ```
-However, if you are currently participating in a digital exhibits, please skip ahead to the next page.
+However, if you are currently participating in a digital exhibit workshop, skip ahead to the next page.
 ```
 
 ## cPanel
