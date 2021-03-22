@@ -31,7 +31,7 @@ You must be logged into your UW Google account to access the links below.
 - How are Collections Different From Exhibits?
 - Creating a Collection in Omeka
 
-
+If you ever get lost, you can refer back to the [UW Omeka guide](https://guides.lib.uw.edu/research/omeka). 
 <br>
 
 ### SPLOTs Quick Links
