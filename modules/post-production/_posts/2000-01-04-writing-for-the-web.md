@@ -17,7 +17,7 @@ Consider [these guidelines](https://education.uw.edu/my-coe/web-writing-guidelin
 
 <br>
 
-## Accessibility
+## Revisiting Accessibility
 You also need to ensure that your digital exhibits are designed with accessibility in mind. This means you make good use of headings, images have alternative text, you use meaningful hyperlinks, and your site can be navigated by keyboard-only.
 
 For a longer, more detailed list of accessibility considerations, visit the UW's Accessible Technology page on [developing accessible websites](https://www.washington.edu/accessibility/web/).
