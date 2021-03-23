@@ -67,7 +67,7 @@ $p2pu-light-green:      transparentize($p2pu-green, 0.85);
 $p2pu-light-yellow:     transparentize($p2pu-yellow, 0.85);
 $p2pu-light-orange:     transparentize($p2pu-orange, 0.85);
 
-$primary:       $gray-dark;
+$primary:       $gray-darker;
 $secondary:     $gray-lighter;
 $success:       $p2pu-green;
 $info:          $p2pu-blue;
@@ -182,7 +182,7 @@ $sizes: map-merge(
 // Settings for the `<body>` element.
 
 $body-bg:                   $white;
-$body-color:                $gray-darker;;
+$body-color:                $gray-dark;;
 
 // Links
 //
