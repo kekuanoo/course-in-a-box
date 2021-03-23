@@ -25,13 +25,13 @@ You must be logged into your UW Google account to access the links below.
 - Add a New Simple Page
 - Simple Page Hierarchy view (nested pages)
 
-
 [**Create an exhibit**](https://docs.google.com/document/d/1JX56w6bhwa-6AayBC-CN70y3e6EbUNJUkzgL9Twb44s/edit?usp=sharing)
 - What are Collections?
 - How are Collections Different From Exhibits?
 - Creating a Collection in Omeka
 
-If you ever get lost, you can refer back to the [UW Omeka guide](https://guides.lib.uw.edu/research/omeka). 
+If you ever get lost, you can refer back to the [UW Omeka guide](https://guides.lib.uw.edu/research/omeka).
+
 <br>
 
 ### SPLOTs Quick Links
