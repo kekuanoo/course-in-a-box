@@ -2,7 +2,6 @@
 title: Learning Environment
 ---
 
-<img src="/course-in-a-box/img/learning_environment.png" alt="a scratch drawing of the words learning environment" class="img-fluid">
 
 ## Learning environment
 

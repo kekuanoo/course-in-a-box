@@ -2,7 +2,6 @@
 title: Workshop tools
 ---
 
-<img src="/course-in-a-box/img/banners/workshop-tools.png" alt="a scratch drawing of the words workshop tools" class="img-fluid">
 
 ## Workshop tools
 

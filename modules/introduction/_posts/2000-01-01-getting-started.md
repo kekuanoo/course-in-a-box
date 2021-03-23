@@ -2,7 +2,6 @@
 title: Getting Started with Digital Exhibits
 ---
 
-<img src="/course-in-a-box/img/banners/getting_started.png" alt="a scratch drawing of the words getting started" class="img-fluid">
 
 ## What are Digital Exhibits?
 
