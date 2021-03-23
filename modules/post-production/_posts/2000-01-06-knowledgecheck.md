@@ -1,5 +1,5 @@
 ---
-title: Actions!
+title: Knowledge check!
 ---
 
 ## Knowledge check!
