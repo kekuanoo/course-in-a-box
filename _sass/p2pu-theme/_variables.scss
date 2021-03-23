@@ -8,7 +8,7 @@
 // Color system
 //
 
-$gray-darker:           #515665;
+$gray-darker:           #4b2e83;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
 $gray-light:            #D3D8E6;
@@ -67,7 +67,7 @@ $p2pu-light-green:      transparentize($p2pu-green, 0.85);
 $p2pu-light-yellow:     transparentize($p2pu-yellow, 0.85);
 $p2pu-light-orange:     transparentize($p2pu-orange, 0.85);
 
-$primary:       $gray-darker;
+$primary:       $gray-dark;
 $secondary:     $gray-lighter;
 $success:       $p2pu-green;
 $info:          $p2pu-blue;
