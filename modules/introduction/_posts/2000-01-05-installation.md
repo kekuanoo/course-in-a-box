@@ -8,11 +8,15 @@ If you are looking to build your own full digital exhibits, whether through Omek
 
 >However, if you are currently participating in a digital exhibit workshop, skip ahead to the next page.
 
+<br>
+
 ## cPanel
 
 Once your subdomain has been selected, you will be taken to the cPanel - a hosting control panel that helps you manage your new subdomain. It lists a number of applications and tools that are now available to you via Reclaim Hosting.
 
 As it is right now, nothing exists on your subdomain. You only have empty server space and a reserved area to host and store content. To access the tools you need, you have to install each of them. Luckily, the two most popular tools - Wordpress and Omeka - are the first two available in the cPanel list.
+
+<br>
 
 ## Installing Omeka
 
@@ -24,6 +28,8 @@ Your “website title” will default to My cms. You can change your website tit
 When you get to the bottom of the screen, click the Install button.
 
 Once Omeka has installed, you’ll see a page with a link to your Omeka site and a link to the administrative login (URL ends in /admin/) for Omeka where you can add content and make changes to your site. An email will be sent to you with this information as well.
+
+<br>
 
 ## Installing SPLOTs
 
